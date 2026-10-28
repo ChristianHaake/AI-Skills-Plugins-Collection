@@ -19,6 +19,8 @@ Agent-Skills (SKILL.md-Pakete) für Claude und andere Agenten.
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) – Skill, der Diagramme als einzelne HTML-Datei mit Inline-SVG im Markenstil erzeugt; 45 Diagrammtypen, Import von draw.io, Mermaid und Excalidraw, Export als SVG oder PNG.
 - [impeccable](https://github.com/pbakaus/impeccable) – Design-Skill (`/impeccable`, 24 Befehle) zum Prüfen und Polieren von Frontend-Design, mit 62 deterministischen Regeln gegen typische KI-Designfehler; auch als CLI und Browser-Extension.
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) – Claude-Code-Skills für den akademischen Workflow: Deep Research (13 Agenten), Paper-Schreiben (12), simuliertes Peer-Review (7) und eine 10-stufige Pipeline.
+- [karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) – CLAUDE.md, Skill und Plugin mit vier Prinzipien gegen typische LLM-Codingfehler (vor dem Coden klären, einfach halten, gezielte Änderungen, überprüfbare Ziele); auch als Cursor-Regel.
+- [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) – Skill mit Design-Wissensbasis für UI/UX (79 Stile, 192 Farbpaletten, 74 Schriftpaarungen, 119 UX-Richtlinien, 22 Stacks); erzeugt per Suchskript (BM25) ein Design-System; für viele Agenten.
 
 ## Plugins
 
@@ -59,6 +61,7 @@ Plattformen und Apps:
 - [AIS.chat](https://app.ais-chat.schule) – Schulplattform für KI-Lernszenarien, Dialogpartner und Assistenten; DSGVO-konform, deutsche Server, proprietär.
 - [Unterrichtsplanung-App](https://github.com/dk-3du/unterrichtsplanung) – native macOS-App (SwiftUI, macOS 26+) für Unterrichtsplanung und Materialkuration; lokal, AES-256-verschlüsselt, Web-Leseansicht für iPad.
 - [Erwartungshorizont-Studio](https://github.com/simonhartmannedu/Erwartungshorizont-Studio) – local-first Web-App für Erwartungshorizonte, Notenschlüssel und Klausurkorrektur; Export DOCX, ODS, PDF.
+- [LernWerkstatt](https://github.com/maltedreyer-5/lernwerkstatt) – selbst gehostete Web-App (Python, Gradio, Docker), die per Sprachmodell eigenständige interaktive HTML-Lerneinheiten mit Diagrammen, Formeln, Simulatoren und Selbsttests erzeugt; beliebiger OpenAI-kompatibler Endpoint, Fachinhalte werden nicht geprüft.
 - [Prompt-Bibliothek des Deutschen Schulportals](https://campus.deutsches-schulportal.de/promptbibliothek) – 22 Prompts für Schulentwicklung in vier Phasen; Registrierung für Volltexte nötig.
 
 Browser-Tools (lokal, ohne Account):
