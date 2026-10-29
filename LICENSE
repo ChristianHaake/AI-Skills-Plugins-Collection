@@ -42,7 +42,6 @@ Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 =======================================================================
 
-This collection (README.md, docs/, .github/) is licensed under CC BY-SA 4.0.
-Individual tools, skills, and resources listed in this collection have their
-own licenses as specified in each entry — those licenses govern the use of
-the respective tools/resources, not this collection's license.
+This collection (README.md, AGENTS.md, docs/) is licensed under CC BY-SA 4.0.
+The tools, skills, and resources it links to have their own licenses, which
+govern their use; they are not covered by this collection's license.

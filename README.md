@@ -1,10 +1,10 @@
-# AI-Skills für die Schule
+# AI-Skills-Plugins-Collection
 
-Eine kuratierte Sammlung von KI-Skills, Tools und Open Educational Resources (OER) für den schulischen Einsatz — mit Fokus auf **Datenschutz, lokale Verarbeitung und freie Lizenzen**.
+![Lizenz](https://img.shields.io/badge/Lizenz-CC%20BY--SA%204.0-blue) ![Kuratiert](https://img.shields.io/badge/kuratiert-ja-brightgreen)
 
-Die Sammlung ist **kuratiert**, keine vollständige Marktübersicht und kein objektives Ranking.
+Kuratierte Liste von KI-Skills, Plugins und MCP-Servern. Enthält auch Kandidaten, die noch nicht im Einsatz sind. Lesbar für Menschen und KI-Agenten.
 
----
+Eintragsformat: `- [Name](Primärquelle) – Kurzbeschreibung.` Ein Eintrag steht in genau einer Kategorie. Regeln: [docs/automatisierung-und-regelwerk.md](docs/automatisierung-und-regelwerk.md).
 
 ## Übersicht der Quellen
 
@@ -15,7 +15,7 @@ Die Sammlung verlinkt primär auf **bereits kuratierte Quellen** statt Inhalte z
 | [3ducation.org](https://3ducation.org) | KI-Skills (Claude), Lernumgebungen, Feedback-/Reflexionsbögen, AIS.chat-Konfigurationen | CC BY-SA, CC BY-NC-SA, AGPL |
 | [dk-3du/unterrichtsplanung (GitHub)](https://github.com/dk-3du/unterrichtsplanung) | Native macOS-App (Swift/SwiftUI) für Unterrichts- und Vorhabenplanung mit AES-256-Verschlüsselung | GPL-3.0 (App), AGPL-3.0 (Web-App) |
 
----
+Skills, Plattformen, Tools und OER für den schulischen Einsatz. Auswahlkriterien: Datenschutz, lokale Verarbeitung, freie Lizenzen.
 
 ## Kategorien
 
