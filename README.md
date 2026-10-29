@@ -43,6 +43,7 @@ Eigenständige Frameworks und CLIs für KI-Agenten, die weder Skill noch Plugin 
 - [agent-reach](https://github.com/Panniantong/agent-reach) – Python-CLI mit Skill, die Agenten Lese- und Suchzugriff auf Plattformen gibt (YouTube, GitHub, Bilibili, Reddit u.a.); nur lesend.
 - [hyperframes](https://github.com/heygen-com/hyperframes) – HeyGen-Framework (TypeScript), das HTML/CSS-Kompositionen deterministisch zu MP4 rendert; mit CLI und Agent-Skills, benötigt Node.js 22+ und FFmpeg.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) – generiert per 7-Phasen-Pipeline Python-CLIs (Click, JSON-Ausgabe) für bestehende Software, damit Agenten sie bedienen; mit Community-Registry CLI-Hub.
+- [Paper2Agent](https://github.com/jmiao24/Paper2Agent) – CLI-Pipeline (Python 3.10+, Claude Code, fastmcp), die aus dem Repository eines Forschungspapers dessen Tutorials ausführt, daraus Tools extrahiert und als MCP-Server verpackt.
 
 ## Schule
 
