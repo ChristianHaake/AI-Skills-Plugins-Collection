@@ -28,6 +28,7 @@ Plugin-Bündel aus Skills, Befehlen, Hooks und Connectoren.
 
 - [obra/superpowers](https://github.com/obra/superpowers) – Skills-Framework und Methodik für Software-Entwicklung mit Agenten (Brainstorming, Plan, TDD, Subagenten, Code-Review); Claude Code, Codex, Cursor, Gemini CLI u.a.
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) – Referenz-Agenten, Skills, Slash-Commands (`/dcf`, `/lbo`, `/comps`) und 12 MCP-Connectoren für Investmentbanking, Equity Research, Private Equity und Wealth Management; Cowork- und Claude-Code-Plugins.
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) – Open-Source-Sammlung von elf fachspezifischen Plugin-Bündeln (Engineering, Data, Product, Legal, Finance u.a.) mit Skills, Slash-Commands und MCP-Connectoren für Claude Cowork und Claude Code.
 
 ## MCP-Server
 
