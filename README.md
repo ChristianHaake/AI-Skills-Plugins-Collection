@@ -45,6 +45,7 @@ Eigenständige Frameworks und CLIs für KI-Agenten, die weder Skill noch Plugin 
 - [hyperframes](https://github.com/heygen-com/hyperframes) – HeyGen-Framework (TypeScript), das HTML/CSS-Kompositionen deterministisch zu MP4 rendert; mit CLI und Agent-Skills, benötigt Node.js 22+ und FFmpeg.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) – generiert per 7-Phasen-Pipeline Python-CLIs (Click, JSON-Ausgabe) für bestehende Software, damit Agenten sie bedienen; mit Community-Registry CLI-Hub.
 - [Paper2Agent](https://github.com/jmiao24/Paper2Agent) – CLI-Pipeline (Python 3.10+, Claude Code, fastmcp), die aus dem Repository eines Forschungspapers dessen Tutorials ausführt, daraus Tools extrahiert und als MCP-Server verpackt.
+- [VoiceStudio](https://github.com/debpalash/VoiceStudio) – Lokale Voice-Suite für Voice Cloning, Sprachsynthese, Transkription in 646 Sprachen und Video-Dubbing mit integriertem MCP-Server für KI-Agenten.
 
 ## Schule
 
