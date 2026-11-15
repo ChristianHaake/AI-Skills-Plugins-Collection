@@ -46,6 +46,7 @@ Eigenständige Frameworks und CLIs für KI-Agenten, die weder Skill noch Plugin 
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) – generiert per 7-Phasen-Pipeline Python-CLIs (Click, JSON-Ausgabe) für bestehende Software, damit Agenten sie bedienen; mit Community-Registry CLI-Hub.
 - [Paper2Agent](https://github.com/jmiao24/Paper2Agent) – CLI-Pipeline (Python 3.10+, Claude Code, fastmcp), die aus dem Repository eines Forschungspapers dessen Tutorials ausführt, daraus Tools extrahiert und als MCP-Server verpackt.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) – Lokale Voice-Suite für Voice Cloning, Sprachsynthese, Transkription in 646 Sprachen und Video-Dubbing mit integriertem MCP-Server für KI-Agenten.
+- [OpenSEO](https://github.com/every-app/open-seo) – Open-Source-SEO-Tool (Semrush-/Ahrefs-Alternative) mit MCP-Server und Agent-Skills für Keyword-Research, Rank-Tracking, Backlinks und Site-Audits; self-hosted via Docker oder Cloudflare, Daten pay-as-you-go über eigenen DataForSEO-Key.
 
 ## Schule
 
