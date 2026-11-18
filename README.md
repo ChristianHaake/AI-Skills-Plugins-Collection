@@ -15,6 +15,7 @@ Agent-Skills (SKILL.md-Pakete) für Claude und andere Agenten.
 - [caveman](https://github.com/juliusbrussee/caveman) – Skill und Proxy für Coding-Agents, der den Token-Verbrauch senkt: knappe Antworten, Kompression großer Eingaben (Logs, JSON, CSV) vor dem Modell; Claude Code, Gemini CLI u.a.
 - [humanizer](https://github.com/blader/humanizer) – Skill (`/humanizer`), der Merkmale KI-generierter Texte anhand von 26 Mustern entfernt (Entwurf, Kritik, Endfassung); Claude Code, Codex, Claude.ai.
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) – 52 Marketing-Skills (CRO, Copywriting, SEO, Analytics, Growth) nach Agent-Skills-Spezifikation.
+- [seo-skills](https://github.com/Illyism/seo-skills) – 30 SKILL.md-Workflows für technisches SEO, GEO, Ahrefs/DataForSEO, Linkaufbau und Copywriting; für Claude Code, Cursor, Codex und Gemini CLI.
 - [mattpocock/skills](https://github.com/mattpocock/skills) – Skill-Sammlung für Entwicklung (tdd, diagnosing-bugs, to-spec, code-review) und Produktivität (grill-me, handoff).
 - [diagram-design](https://github.com/cathrynlavery/diagram-design) – Skill, der Diagramme als einzelne HTML-Datei mit Inline-SVG im Markenstil erzeugt; 45 Diagrammtypen, Import von draw.io, Mermaid und Excalidraw, Export als SVG oder PNG.
 - [impeccable](https://github.com/pbakaus/impeccable) – Design-Skill (`/impeccable`, 24 Befehle) zum Prüfen und Polieren von Frontend-Design, mit 62 deterministischen Regeln gegen typische KI-Designfehler; auch als CLI und Browser-Extension.
