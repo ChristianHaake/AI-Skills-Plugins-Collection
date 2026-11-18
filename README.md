@@ -21,6 +21,7 @@ Agent-Skills (SKILL.md-Pakete) für Claude und andere Agenten.
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) – Claude-Code-Skills für den akademischen Workflow: Deep Research (13 Agenten), Paper-Schreiben (12), simuliertes Peer-Review (7) und eine 10-stufige Pipeline.
 - [karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) – CLAUDE.md, Skill und Plugin mit vier Prinzipien gegen typische LLM-Codingfehler (vor dem Coden klären, einfach halten, gezielte Änderungen, überprüfbare Ziele); auch als Cursor-Regel.
 - [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) – Skill mit Design-Wissensbasis für UI/UX (79 Stile, 192 Farbpaletten, 74 Schriftpaarungen, 119 UX-Richtlinien, 22 Stacks); erzeugt per Suchskript (BM25) ein Design-System; für viele Agenten.
+- [unslop](https://github.com/heydamir/unslop) – Skill (`/unslop`, `$unslop`) für UI-Audits und schrittweises Redesign KI-generierter Oberflächen in neun Passes (Spacing bis Motion), optional mit Live-URL-Snapshot und Story-Video via Playwright und ffmpeg; Claude Code, Codex und Google Antigravity.
 
 ## Plugins
 
