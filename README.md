@@ -50,6 +50,7 @@ Eigenständige Frameworks und CLIs für KI-Agenten, die weder Skill noch Plugin 
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) – Lokale Voice-Suite für Voice Cloning, Sprachsynthese, Transkription in 646 Sprachen und Video-Dubbing mit integriertem MCP-Server für KI-Agenten.
 - [OpenSEO](https://github.com/every-app/open-seo) – Open-Source-SEO-Tool (Semrush-/Ahrefs-Alternative) mit MCP-Server und Agent-Skills für Keyword-Research, Rank-Tracking, Backlinks und Site-Audits; self-hosted via Docker oder Cloudflare, Daten pay-as-you-go über eigenen DataForSEO-Key.
 - [AI YouTube Shorts Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) – Python-CLI mit optionalem Claude-Skill, die aus langen YouTube-Videos oder lokalen Videos per Transkription, LLM-Highlight-Erkennung und automatischem Zuschnitt vertikale Clips für Shorts, Reels und TikTok erzeugt.
+- [VideoLingo](https://github.com/Huanshere/VideoLingo) – Python-Anwendung mit Streamlit-UI und optionaler lokaler FastAPI zur Transkription, Untertitelübersetzung, Ausrichtung und optionalem Video-Dubbing; nutzt konfigurierbare LLM-, ASR- und TTS-Backends.
 
 ## Schule
 
